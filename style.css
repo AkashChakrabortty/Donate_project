@@ -32,3 +32,58 @@ body{
      padding: 10px 15px;
      border-radius: 10px;
 }
+
+#donate_section h2{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+}
+#donate_section p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.amount_container{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+}
+.amount{
+    width: 50%;
+    background-color: rgba(255, 68, 0, 0.1);
+    border-radius: 5px;
+    margin-left: 10px;
+    text-align: center;
+    padding: 20px;
+}
+.select{
+    color: rgba(255, 68, 0, 0.9);
+    border: 1px solid rgba(255, 68, 0, 0.9);
+}
+.submit{
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+   
+}
+.submit input{
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    font-size: 15px;
+}
+.submit button{
+    border: 0;
+    background-color: orangered;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+    display: block;
+    width: auto;
+    margin: auto;
+    margin-top: 10px;
+   
+}
