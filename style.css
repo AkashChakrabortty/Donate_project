@@ -34,10 +34,9 @@ body{
 }
 
 #donate_section h2{
-    font-size: 35px;
     text-align: center;
     margin-top: 50px;
-    font-size: 20px;
+    font-size: 30px;
 }
 #donate_section p{
     font-size: 20px;
@@ -86,4 +85,52 @@ body{
     margin: auto;
     margin-top: 10px;
    
+}
+#plan_section{
+
+}
+#plan_section h2{
+    margin-top: 50px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.plan_text{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.plan_container{
+    display: flex;
+    margin-top: 50px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.plan{
+    width: 35%;
+    margin-left: 20px;
+}
+.plan img{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.plan h3{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.plan p{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.food{
+    background-color: rgba(0, 255, 255, 0.1);
+}
+.shelter{
+    background-color: rgba(255, 99, 71, 0.1);
+}
+.education{
+    background-color: rgba(128, 128, 128, 0.1);
 }
