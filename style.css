@@ -134,3 +134,33 @@ body{
 .education{
     background-color: rgba(128, 128, 128, 0.1);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+    overflow: hidden;
+}
+footer h3{
+    color: orangered;
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+}
+footer p{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
