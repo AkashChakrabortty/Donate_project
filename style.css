@@ -86,9 +86,6 @@ body{
     margin-top: 10px;
    
 }
-#plan_section{
-
-}
 #plan_section h2{
     margin-top: 50px;
     text-align: center;
@@ -135,11 +132,39 @@ body{
     background-color: rgba(128, 128, 128, 0.1);
 }
 
+#update_section h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+#update_section p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
 
-
-
-
-
+.contact_container{
+    width: 60%;
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 50px 100px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact_container input{
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.5);
+    border: 0;
+}
+.contact_container button{
+    color: white;
+     text-decoration:none;
+     background-color: orangered;
+     padding: 10px 15px;
+     border-radius: 10px;
+     border: 0;
+}
 
 
 
