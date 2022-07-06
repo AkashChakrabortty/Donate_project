@@ -159,16 +159,42 @@ body{
 }
 .contact_container button{
     color: white;
-     text-decoration:none;
-     background-color: orangered;
-     padding: 10px 15px;
-     border-radius: 10px;
-     border: 0;
+    background-color: orangered;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 0;
 }
 
-
-
-
+.time_container{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-top: 100px;
+}
+.time_img{
+   width: 50%;
+}
+.time_img img{
+    width: 100%;
+}
+.time_text{
+    width: 50%;
+    margin-left: 5px;
+    text-align: center;
+}
+.time_text h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.time_text p{
+    margin-bottom: 20px;
+}
+.time_text button{
+    color: white;
+    background-color: orangered;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 0;
 
 
 
